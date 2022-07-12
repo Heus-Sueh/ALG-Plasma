@@ -1,0 +1,13 @@
+9
+
+https://snapdrop.net/
+https://snapdrop.net/service-worker.js
+true
+{b333edc1-0a80-416e-a7b9-1f908b0268ae}
+0
+1657050610395183
+1657050610398327
+1657050609993188
+0
+true
+#
