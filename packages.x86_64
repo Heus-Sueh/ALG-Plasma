@@ -153,7 +153,7 @@ system-config-printer
 #AUR Helper
 paru
 
-#GPU & iGPU drivers & settings
+#GPU drivers & settings
 xf86-video-intel
 #nvidia
 #nvidia-utils
